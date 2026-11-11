@@ -211,7 +211,7 @@ cpu8/
 ├── tools/
 │   ├── model_and_assembler.py   golden model, mini-assembler, ROM generator
 │   └── plot_waveform.py         renders a waveform PNG/PDF from a GHDL VCD file
-└── docs/                 waveform images and the Persian walkthrough (GUIDE_FA.md)
+└── docs/                 waveform images and the Quartus report summaries
 ```
 
 ---
