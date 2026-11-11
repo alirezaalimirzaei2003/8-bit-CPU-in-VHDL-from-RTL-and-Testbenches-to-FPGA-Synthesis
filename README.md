@@ -1,5 +1,5 @@
-# A-Verified-8-bit-CPU-in-VHDL-from-RTL-and-Testbenches-to-FPGA-Synthesis
-A compact, fully verified 8-bit accumulator CPU: 16-bit instruction word, **two clock cycles per instruction**, a **hardware loop counter**, a **4-level hardware call stack**, and a strobed output port. The design is written in synthesizable VHDL-2008, verified with self-checking testbenches in **GHDL** and **Questa**, and synthesized with **Quartus Prime Lite 25.1** for a Cyclone IV E device.
+# bit-CPU-in-VHDL-from-RTL-and-Testbenches-to-FPGA-Synthesis
+A compact 8-bit accumulator CPU: 16-bit instruction word, **two clock cycles per instruction**, a **hardware loop counter**, a **4-level hardware call stack**, and a strobed output port. The design is written in synthesizable VHDL-2008, verified with self-checking testbenches in **GHDL** and **Questa**, and synthesized with **Quartus Prime Lite 25.1** for a Cyclone IV E device.
 
 | | |
 |---|---|
